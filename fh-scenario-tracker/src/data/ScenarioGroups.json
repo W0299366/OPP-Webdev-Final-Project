@@ -1,0 +1,773 @@
+[
+  {
+    "title": "Starting Questline",
+    "indexPath": [
+      {
+        "index": 0,
+        "xPos": 0,
+        "yPos": 0
+      },
+      {
+        "index": 1,
+        "xPos": 1,
+        "yPos": 0
+      },
+      {
+        "index": 2,
+        "xPos": 2,
+        "yPos": 0
+      },
+      {
+        "index": 3,
+        "xPos": 2,
+        "yPos": 1
+      },
+      {
+        "index": 4,
+        "xPos": 3,
+        "yPos": 0
+      }
+    ]
+  },
+  {
+    "title": "Algox Questline",
+    "indexPath": [
+      {
+        "index": 5,
+        "xPos": 0,
+        "yPos": 1
+      },
+      {
+        "index": 9,
+        "xPos": 1,
+        "yPos": 0
+      },
+      {
+        "index": 10,
+        "xPos": 1,
+        "yPos": 1
+      },
+      {
+        "index": 17,
+        "xPos": 2,
+        "yPos": 0
+      },
+      {
+        "index": 18,
+        "xPos": 2,
+        "yPos": 1
+      },
+      {
+        "index": 27,
+        "xPos": 3,
+        "yPos": 0
+      },
+      {
+        "index": 28,
+        "xPos": 3,
+        "yPos": 2
+      },
+      {
+        "index": 29,
+        "xPos": 3,
+        "yPos": 1
+      },
+      {
+        "index": 38,
+        "xPos": 4,
+        "yPos": 2
+      },
+      {
+        "index": 39,
+        "xPos": 4,
+        "yPos": 1
+      },
+      {
+        "index": 45,
+        "xPos": 5,
+        "yPos": 3
+      },
+      {
+        "index": 46,
+        "xPos": 5,
+        "yPos": 2
+      },
+      {
+        "index": 47,
+        "xPos": 5,
+        "yPos": 1
+      },
+      {
+        "index": 52,
+        "xPos": 6,
+        "yPos": 2
+      },
+      {
+        "index": 55,
+        "xPos": 7,
+        "yPos": 2
+      },
+      {
+        "index": 56,
+        "xPos": 6,
+        "yPos": 1
+      }
+    ]
+  },
+  {
+    "title": "Algox Questline",
+    "indexPath": [
+      {
+        "index": 6,
+        "xPos": 0,
+        "yPos": 1
+      },
+      {
+        "index": 11,
+        "xPos": 1,
+        "yPos": 1
+      },
+      {
+        "index": 12,
+        "xPos": 1,
+        "yPos": 0
+      },
+      {
+        "index": 19,
+        "xPos": 2,
+        "yPos": 1
+      },
+      {
+        "index": 20,
+        "xPos": 2,
+        "yPos": 0
+      },
+      {
+        "index": 28,
+        "xPos": 3,
+        "yPos": 2
+      },
+      {
+        "index": 30,
+        "xPos": 3,
+        "yPos": 1
+      },
+      {
+        "index": 31,
+        "xPos": 3,
+        "yPos": 0
+      },
+      {
+        "index": 38,
+        "xPos": 4,
+        "yPos": 2
+      },
+      {
+        "index": 40,
+        "xPos": 4,
+        "yPos": 1
+      },
+      {
+        "index": 41,
+        "xPos": 4,
+        "yPos": 0
+      },
+      {
+        "index": 45,
+        "xPos": 5,
+        "yPos": 3
+      },
+      {
+        "index": 46,
+        "xPos": 5,
+        "yPos": 2
+      },
+      {
+        "index": 48,
+        "xPos": 5,
+        "yPos": 1
+      },
+      {
+        "index": 52,
+        "xPos": 6,
+        "yPos": 2
+      },
+      {
+        "index": 55,
+        "xPos": 7,
+        "yPos": 2
+      },
+      {
+        "index": 57,
+        "xPos": 6,
+        "yPos": 1
+      }
+    ]
+  },
+  {
+    "title": "Lurker Questline",
+    "indexPath": [
+      {
+        "index": 7,
+        "xPos": 0,
+        "yPos": 1
+      },
+      {
+        "index": 13,
+        "xPos": 1,
+        "yPos": 0
+      },
+      {
+        "index": 14,
+        "xPos": 1,
+        "yPos": 1
+      },
+      {
+        "index": 21,
+        "xPos": 0,
+        "yPos": 0
+      },
+      {
+        "index": 22,
+        "xPos": 2,
+        "yPos": 1
+      },
+      {
+        "index": 32,
+        "xPos": 2,
+        "yPos": 0
+      },
+      {
+        "index": 33,
+        "xPos": 3,
+        "yPos": 1
+      },
+      {
+        "index": 42,
+        "xPos": 4,
+        "yPos": 1
+      },
+      {
+        "index": 49,
+        "xPos": 5,
+        "yPos": 1
+      },
+      {
+        "index": 50,
+        "xPos": 5,
+        "yPos": 0
+      },
+      {
+        "index": 53,
+        "xPos": 6,
+        "yPos": 1
+      },
+      {
+        "index": 54,
+        "xPos": 6,
+        "yPos": 0
+      },
+      {
+        "index": 60,
+        "xPos": 7,
+        "yPos": 1
+      }
+    ]
+  },
+  {
+    "title": "Unfettered Questline",
+    "indexPath": [
+      {
+        "index": 8,
+        "xPos": 0,
+        "yPos": 2
+      },
+      {
+        "index": 15,
+        "xPos": 1,
+        "yPos": 1
+      },
+      {
+        "index": 16,
+        "xPos": 1,
+        "yPos": 2
+      },
+      {
+        "index": 23,
+        "xPos": 2,
+        "yPos": 1
+      },
+      {
+        "index": 24,
+        "xPos": 2,
+        "yPos": 0
+      },
+      {
+        "index": 25,
+        "xPos": 2,
+        "yPos": 2
+      },
+      {
+        "index": 26,
+        "xPos": 2,
+        "yPos": 3
+      },
+      {
+        "index": 34,
+        "xPos": 3,
+        "yPos": 1
+      },
+      {
+        "index": 35,
+        "xPos": 3,
+        "yPos": 2
+      },
+      {
+        "index": 36,
+        "xPos": 3,
+        "yPos": 3
+      },
+      {
+        "index": 37,
+        "xPos": 3,
+        "yPos": 4
+      },
+      {
+        "index": 43,
+        "xPos": 4,
+        "yPos": 2
+      },
+      {
+        "index": 44,
+        "xPos": 4,
+        "yPos": 4
+      },
+      {
+        "index": 51,
+        "xPos": 5,
+        "yPos": 3
+      },
+      {
+        "index": 58,
+        "xPos": 4,
+        "yPos": 3
+      },
+      {
+        "index": 59,
+        "xPos": 5,
+        "yPos": 4
+      }
+    ]
+  },
+  {
+    "title": "Job Posting",
+    "indexPath": [
+      {
+        "index": 78,
+        "xPos": 0,
+        "yPos": 0
+      },
+      {
+        "index": 79,
+        "xPos": 1,
+        "yPos": 0
+      },
+      {
+        "index": 80,
+        "xPos": 2,
+        "yPos": 0
+      },
+      {
+        "index": 83,
+        "xPos": 3,
+        "yPos": 0
+      },
+      {
+        "index": 84,
+        "xPos": 4,
+        "yPos": 0
+      },
+      {
+        "index": 85,
+        "xPos": 5,
+        "yPos": 0
+      },
+      {
+        "index": 86,
+        "xPos": 6,
+        "yPos": 0
+      },
+      {
+        "index": 87,
+        "xPos": 0,
+        "yPos": 1
+      },
+      {
+        "index": 88,
+        "xPos": 1,
+        "yPos": 1
+      },
+      {
+        "index": 89,
+        "xPos": 2,
+        "yPos": 1
+      },
+      {
+        "index": 90,
+        "xPos": 3,
+        "yPos": 1
+      },
+      {
+        "index": 91,
+        "xPos": 4,
+        "yPos": 1
+      },
+      {
+        "index": 92,
+        "xPos": 5,
+        "yPos": 1
+      },
+      {
+        "index": 93,
+        "xPos": 6,
+        "yPos": 1
+      },
+      {
+        "index": 94,
+        "xPos": 0,
+        "yPos": 2
+      },
+      {
+        "index": 95,
+        "xPos": 1,
+        "yPos": 2
+      },
+      {
+        "index": 96,
+        "xPos": 2,
+        "yPos": 2
+      },
+      {
+        "index": 97,
+        "xPos": 3,
+        "yPos": 2
+      },
+      {
+        "index": 98,
+        "xPos": 4,
+        "yPos": 2
+      },
+      {
+        "index": 99,
+        "xPos": 0,
+        "yPos": 3
+      },
+      {
+        "index": 100,
+        "xPos": 1,
+        "yPos": 3
+      },
+      {
+        "index": 101,
+        "xPos": 2,
+        "yPos": 3
+      },
+      {
+        "index": 102,
+        "xPos": 3,
+        "yPos": 3
+      },
+      {
+        "index": 103,
+        "xPos": 4,
+        "yPos": 3
+      },
+
+      {
+        "index": 132,
+        "xPos": 5,
+        "yPos": 2
+      },
+      {
+        "index": 133,
+        "xPos": 6,
+        "yPos": 2
+      }
+    ]
+  },
+  {
+    "title": "Other Scenarios",
+    "indexPath": [
+      {
+        "index": 81,
+        "xPos": 0,
+        "yPos": 0
+      },
+      {
+        "index": 82,
+        "xPos": 1,
+        "yPos": 0
+      },
+      {
+        "index": 113,
+        "xPos": 0,
+        "yPos": 1
+      },
+      {
+        "index": 114,
+        "xPos": 2,
+        "yPos": 0
+      },
+      {
+        "index": 115,
+        "xPos": 3,
+        "yPos": 0
+      },
+      {
+        "index": 116,
+        "xPos": 4,
+        "yPos": 0
+      },
+      {
+        "index": 117,
+        "xPos": 1,
+        "yPos": 1
+      },
+      {
+        "index": 118,
+        "xPos": 2,
+        "yPos": 1
+      },
+      {
+        "index": 119,
+        "xPos": 3,
+        "yPos": 1
+      },
+      {
+        "index": 120,
+        "xPos": 0,
+        "yPos": 2
+      },
+      {
+        "index": 121,
+        "xPos": 1,
+        "yPos": 2
+      },
+      {
+        "index": 122,
+        "xPos": 4,
+        "yPos": 1
+      },
+      {
+        "index": 123,
+        "xPos": 2,
+        "yPos": 2
+      },
+      {
+        "index": 124,
+        "xPos": 3,
+        "yPos": 2
+      },
+      {
+        "index": 125,
+        "xPos": 4,
+        "yPos": 2
+      },
+      {
+        "index": 126,
+        "xPos": 0,
+        "yPos": 3
+      },
+      {
+        "index": 127,
+        "xPos": 1,
+        "yPos": 3
+      },
+      {
+        "index": 128,
+        "xPos": 2,
+        "yPos": 3
+      },
+      {
+        "index": 129,
+        "xPos": 3,
+        "yPos": 3
+      },
+      {
+        "index": 130,
+        "xPos": 4,
+        "yPos": 3
+      },
+      {
+        "index": 131,
+        "xPos": 0,
+        "yPos": 4
+      },
+      {
+        "index": 134,
+        "xPos": 1,
+        "yPos": 4
+      },
+      {
+        "index": 135,
+        "xPos": 2,
+        "yPos": 4
+      },
+      {
+        "index": 136,
+        "xPos": 3,
+        "yPos": 4
+      },
+      {
+        "index": 137,
+        "xPos": 4,
+        "yPos": 4
+      }
+    ]
+  },
+  {
+    "title": "Personal Quests",
+    "indexPath": [
+      {
+        "index": 65,
+        "xPos": 0,
+        "yPos": 2
+      },
+      {
+        "index": 66,
+        "xPos": 1,
+        "yPos": 2
+      },
+      {
+        "index": 67,
+        "xPos": 2,
+        "yPos": 2
+      },
+      {
+        "index": 68,
+        "xPos": 3,
+        "yPos": 2
+      },
+      {
+        "index": 69,
+        "xPos": 4,
+        "yPos": 2
+      },
+      {
+        "index": 70,
+        "xPos": 5,
+        "yPos": 2
+      },
+      {
+        "index": 71,
+        "xPos": 0,
+        "yPos": 1
+      },
+      {
+        "index": 72,
+        "xPos": 1,
+        "yPos": 1
+      },
+      {
+        "index": 73,
+        "xPos": 2,
+        "yPos": 1
+      },
+      {
+        "index": 74,
+        "xPos": 3,
+        "yPos": 1
+      },
+      {
+        "index": 75,
+        "xPos": 4,
+        "yPos": 0
+      },
+      {
+        "index": 76,
+        "xPos": 4,
+        "yPos": 1
+      },
+      {
+        "index": 77,
+        "xPos": 5,
+        "yPos": 1
+      }
+    ]
+  },
+  {
+    "title": "Random Scenarios",
+    "indexPath": [
+      {
+        "index": 104,
+        "xPos": 0,
+        "yPos": 0
+      },
+      {
+        "index": 105,
+        "xPos": 1,
+        "yPos": 0
+      },
+      {
+        "index": 106,
+        "xPos": 2,
+        "yPos": 0
+      },
+      {
+        "index": 107,
+        "xPos": 3,
+        "yPos": 0
+      },
+      {
+        "index": 108,
+        "xPos": 4,
+        "yPos": 0
+      },
+      {
+        "index": 109,
+        "xPos": 0,
+        "yPos": 1
+      },
+      {
+        "index": 110,
+        "xPos": 1,
+        "yPos": 1
+      },
+      {
+        "index": 111,
+        "xPos": 2,
+        "yPos": 1
+      },
+      {
+        "index": 112,
+        "xPos": 3,
+        "yPos": 1
+      }
+    ]
+  },
+  {
+    "title": "Puzzle Book",
+    "indexPath": [
+      {
+        "index": 61,
+        "xPos": 0,
+        "yPos": 0
+      },
+      {
+        "index": 62,
+        "xPos": 1,
+        "yPos": 0
+      },
+      {
+        "index": 63,
+        "xPos": 2,
+        "yPos": 0
+      },
+      {
+        "index": 64,
+        "xPos": 3,
+        "yPos": 0
+      }
+    ]
+  }
+]
